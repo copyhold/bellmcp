@@ -1,0 +1,12 @@
+[project]
+name = "bellmcp"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "copyhold",email = "ilya.novojilov@logz.io"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<4.0"
+dependencies = [
+    "mcp[cli] (>=1.12.2,<2.0.0)"
+]
